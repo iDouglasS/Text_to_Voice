@@ -1,4 +1,4 @@
-# Texto para Fala (Text-to-Speech) com Laravel e Google Cloud TTS API
+# Texto para Fala (Text-to-Voice) com Laravel e Google Cloud TTS API
 
 Este projeto é uma aplicação simples que converte texto em fala utilizando a API Text-to-Speech do Google Cloud, integrada com Laravel.
 
